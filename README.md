@@ -1,4 +1,4 @@
-contacts
-========
+PhoneGap3ContactsAPI
+====================
 
-Playing around with contacts and phone gap
+A Tutorial Repo for PhoneGap 3 Contacts API. 
